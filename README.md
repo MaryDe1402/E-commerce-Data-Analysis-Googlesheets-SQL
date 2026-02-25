@@ -32,4 +32,5 @@ A full cycle of data analysis: from cleaning and SQL queries to a dashboard and 
   The low percentage of delivered orders (23%) and the lack of customer registration are the main growth points for the business.
 
   ## 📂 Project materials
-  
+  Dashboard h[ttps://docs.google.com/spreadsheets/d/1xKjS5ONkXLcvLpGwM-DU6FS-sS1zx-R1y5AXoeybBgM/edit?gid=1626215126#gid=1626215126](url)
+ EDA https://docs.google.com/spreadsheets/d/1xKjS5ONkXLcvLpGwM-DU6FS-sS1zx-R1y5AXoeybBgM/edit?gid=11771664#gid=11771664
