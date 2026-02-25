@@ -34,3 +34,4 @@ A full cycle of data analysis: from cleaning and SQL queries to a dashboard and 
   ## 📂 Project materials
   Dashboard https://docs.google.com/spreadsheets/d/1xKjS5ONkXLcvLpGwM-DU6FS-sS1zx-R1y5AXoeybBgM/edit?gid=1626215126#gid=1626215126
   EDA https://docs.google.com/spreadsheets/d/1xKjS5ONkXLcvLpGwM-DU6FS-sS1zx-R1y5AXoeybBgM/edit?gid=11771664#gid=11771664
+  SQL https://docs.google.com/spreadsheets/d/1xKjS5ONkXLcvLpGwM-DU6FS-sS1zx-R1y5AXoeybBgM/edit?gid=1188796451#gid=1188796451
